@@ -1,5 +1,5 @@
 
-![](https://repository-images.githubusercontent.com/279241469/fbe4c580-c4ff-11ea-9a9b-98636f57c5dd)
+![](https://repository-images.githubusercontent.com/279241469/8605fe01-85c3-47fc-8576-aeef6767a44d)
 
 ##
 Principalmente soy **Android Developer**, pero no me dedico únicamente a desarrollar aplicaciones, también me dedico a realizar **diseños tanto UI/UX** como gráficos para redes sociales, carteles, etc, soy **locutor y técnico de radio** en una emisora y llevo varias redes sociales de empresas (**Community Manager**). Soy una persona enérgica que realiza con pasión todo aquello en lo que cree y le gusta,capaz de resolver cualquier problema buscando posibles soluciones sin desistir y al que le encanta seguir **aprendiendo para mejorar**.
