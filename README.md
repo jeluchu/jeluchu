@@ -26,8 +26,6 @@ Principalmente soy **Android Developer**, pero no me dedico únicamente a desarr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 
-<img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=jeluchu&&show_icons=true&line_height=27&v=5&bg_color=303034&title_color=25A58E&text_color=EAEAE9&icon_color=197B82&include_all_commits=true&count_private=true&hide_title=true" alt="Ashwani's GitHub Stats" />
-
 ## ¿Quieres conocer algunos de mis trabajos?
 Te invito a visitar mi página web que he realizado a modo de CV virtual en el que podrás ver con más detalle cada uno de los proyectos que he realizado, además de una visión más extendida de cada una de las aplicaciones desarrolladas: **[Jéluchu Web](https://about.jeluchu.com/)**
 
